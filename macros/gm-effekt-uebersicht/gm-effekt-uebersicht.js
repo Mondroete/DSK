@@ -1,22 +1,23 @@
 /************************************************************
- * GM-Übersichts-Makro – Zeitfenster-Gruppierung (v6.3)
+ * GM-Übersichts-Makro – Zeitfenster-Gruppierung
  *
  * - aktive und versteckte/suspendierte Effekte getrennt
  * - versteckte Effekte als einklappbarer Bereich
  * - Bearbeiten, Löschen, Gruppenlöschung und Stufenregler
  * - offene Bereiche bleiben bei Aktualisierung erhalten
- * - Öffnungs-, Erstell- und Löschton
+ * - Erstell- und Löschton
  ************************************************************/
 
 /* ============================================================
    1 - KONFIGURATION, BUTTON-STYLES & SOUNDS
    ============================================================ */
 
+const MACRO_VERSION = "01.03";
+
 const BTN_BIG = `background:linear-gradient(#76301b,#582617);color:#f8f6f5;border:1px solid #000;border-radius:4px;font-weight:bold;padding:3px 8px;font-size:11px;cursor:pointer;white-space:nowrap;height:25px;line-height:17px;box-sizing:border-box;`;
 const BTN_HEAD = `${BTN_BIG}width:75px;text-align:center;`;
 const BTN_LVL = `background:#5a3b2a;color:#fff;border:1px solid #000;border-radius:3px;font-weight:bold;cursor:pointer;width:22px;height:22px;font-size:12px;line-height:20px;text-align:center;padding:0;`;
 
-const SOUND_OPEN = "https://assets.forge-vtt.com/bazaar/modules/gAudioBundle-4/assets/src/Sci%20Fi%20Book/Sf_Sdb__Robot_Electronic_01.ogg";
 const SOUND_CREATE = "https://assets.forge-vtt.com/bazaar/modules/gAudioBundle-4/assets/src/Scene%20Switch%20Transitions%20And%20Textures/Transition_Alien_Sonar_03.ogg";
 const SOUND_DELETE = "https://assets.forge-vtt.com/bazaar/modules/gAudioBundle-4/assets/src/Scene%20Switch%20Transitions%20And%20Textures/Transition_Synth_Delay_03.ogg";
 
@@ -242,7 +243,7 @@ function renderActorSection(tokenData, isOpen, hiddenIsOpen) {
 class DSKEffectManagerDialog extends Dialog {
     constructor() {
         super(
-            { title: "Effekte Übersicht – GM (v6.3)", content: "", buttons: {} },
+            { title: `Effekte Übersicht – GM (v${MACRO_VERSION})`, content: "", buttons: {} },
             { width: 880, height: 700, resizable: true }
         );
 
@@ -309,7 +310,7 @@ class DSKEffectManagerDialog extends Dialog {
 
         let html = `<div style="padding:10px;max-height:620px;overflow-y:auto;font-size:13px;">
             <div class="dskbox1" style="margin-bottom:14px;">
-                <p style="font-weight:bold;text-align:center;">Effekte Übersicht (v6.3)</p><hr>
+                <p style="font-weight:bold;text-align:center;">Effekte Übersicht (v${MACRO_VERSION})</p><hr>
                 <p style="text-align:center;">Aktive und versteckte Effekte werden getrennt angezeigt. Zeitfenster-Gruppierung verbindet gleichzeitig erzeugte Effekte.</p>
             </div>
             <div class="dskbox2" style="padding:12px;">`;
@@ -459,13 +460,12 @@ class DSKEffectManagerDialog extends Dialog {
 }
 
 /* ============================================================
-   9 - STARTEN (SINGLETON + ÖFFNUNGSTON)
+   9 - STARTEN (SINGLETON)
    ============================================================ */
 
 if (window.dskEffectManagerInstance?.rendered) {
     window.dskEffectManagerInstance.bringToTop();
 } else {
-    spieleEffektTon(SOUND_OPEN);
     window.dskEffectManagerInstance = new DSKEffectManagerDialog();
     window.dskEffectManagerInstance.render(true);
 }
