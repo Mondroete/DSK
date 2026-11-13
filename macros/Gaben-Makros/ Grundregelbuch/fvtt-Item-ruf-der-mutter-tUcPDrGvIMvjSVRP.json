@@ -23,17 +23,15 @@
       },
       "_id": "RK90Jqrh0UnUGRzW",
       "type": "base",
-      "system": {},
-      "changes": [],
+      "system": {
+        "changes": []
+      },
       "disabled": false,
       "duration": {
-        "startTime": 1782131407,
-        "combat": null,
-        "seconds": null,
-        "rounds": null,
-        "turns": null,
-        "startRound": null,
-        "startTurn": null
+        "value": null,
+        "units": "seconds",
+        "expiry": null,
+        "expired": false
       },
       "description": "",
       "tint": "#ffffff",
@@ -44,17 +42,29 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "exportSource": null,
-        "coreVersion": "13.351",
+        "coreVersion": "14.369",
         "systemId": "dsk",
-        "systemVersion": "4.2.8",
-        "lastModifiedBy": null
-      }
+        "systemVersion": "5.0.2",
+        "lastModifiedBy": "9CRVH1u8nNgMxGRR",
+        "createdTime": 1794577098530,
+        "modifiedTime": 1794577098530
+      },
+      "start": {
+        "combat": null,
+        "round": null,
+        "time": 1782131407,
+        "turn": null,
+        "combatant": null,
+        "initiative": null
+      },
+      "showIcon": 1,
+      "folder": null
     }
   ],
   "type": "ahnengabe",
   "system": {
     "description": {
-      "value": "<p>„Das Maunzen einer Mutter kann ihre Kinder wahrhaft überall erreichen.“</p><p>– Mutter Mika</p><p></p><hr /><p>Bitte Lege dir eine Allgemeine Sonderferkigkeit an</p><ul><li><p>sie muss Freunde und Verwandte heiße</p></li><li><p>hier hälst du all deine Freunde und Verwante mit den namen fest</p></li></ul>",
+      "value": "<p>„Das Maunzen einer Mutter kann ihre Kinder wahrhaft überall erreichen.“</p><p>– Mutter Mika</p>",
       "gminfo": ""
     },
     "characteristic1": "ch",
@@ -71,6 +81,9 @@
     "resist": "-"
   },
   "folder": "Bfgy2Rjd3j1lTvPi",
+  "ownership": {
+    "default": 0
+  },
   "flags": {},
   "_stats": {
     "compendiumSource": "Item.M0xHmmR0AUtGidK3",
@@ -78,18 +91,15 @@
     "exportSource": {
       "worldId": "dsk-zum-erstellen",
       "uuid": "Item.tUcPDrGvIMvjSVRP",
-      "coreVersion": "13.351",
+      "coreVersion": "14.369",
       "systemId": "dsk",
-      "systemVersion": "4.2.8"
+      "systemVersion": "5.0.2"
     },
-    "coreVersion": "13.351",
+    "coreVersion": "14.369",
     "systemId": "dsk",
-    "systemVersion": "4.2.8",
-    "createdTime": 1788193874815,
-    "modifiedTime": 1788859718390,
+    "systemVersion": "5.0.2",
+    "createdTime": 1794577098530,
+    "modifiedTime": 1794577098530,
     "lastModifiedBy": "9CRVH1u8nNgMxGRR"
-  },
-  "ownership": {
-    "default": 0
   }
 }

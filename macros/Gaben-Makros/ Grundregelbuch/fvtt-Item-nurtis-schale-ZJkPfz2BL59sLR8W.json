@@ -25,17 +25,15 @@
       },
       "_id": "TI39rH83fYVaLyit",
       "type": "base",
-      "system": {},
-      "changes": [],
+      "system": {
+        "changes": []
+      },
       "disabled": false,
       "duration": {
-        "startTime": null,
-        "combat": null,
-        "seconds": null,
-        "rounds": null,
-        "turns": null,
-        "startRound": null,
-        "startTurn": null
+        "value": null,
+        "units": "seconds",
+        "expiry": null,
+        "expired": false
       },
       "description": "",
       "tint": "#ffffff",
@@ -46,11 +44,16 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "exportSource": null,
-        "coreVersion": "13.351",
+        "coreVersion": "14.369",
         "systemId": "dsk",
-        "systemVersion": "4.2.8",
-        "lastModifiedBy": null
-      }
+        "systemVersion": "5.0.2",
+        "lastModifiedBy": "9CRVH1u8nNgMxGRR",
+        "createdTime": 1794577098516,
+        "modifiedTime": 1794577098516
+      },
+      "start": null,
+      "showIcon": 1,
+      "folder": null
     }
   ],
   "type": "ahnengabe",
@@ -73,6 +76,9 @@
     "resist": "-"
   },
   "folder": "Bfgy2Rjd3j1lTvPi",
+  "ownership": {
+    "default": 0
+  },
   "flags": {},
   "_stats": {
     "compendiumSource": "Item.MIRWGdYeqK3Eum77",
@@ -80,18 +86,15 @@
     "exportSource": {
       "worldId": "dsk-zum-erstellen",
       "uuid": "Item.ZJkPfz2BL59sLR8W",
-      "coreVersion": "13.351",
+      "coreVersion": "14.369",
       "systemId": "dsk",
-      "systemVersion": "4.2.8"
+      "systemVersion": "5.0.2"
     },
-    "coreVersion": "13.351",
+    "coreVersion": "14.369",
     "systemId": "dsk",
-    "systemVersion": "4.2.8",
-    "createdTime": 1788180036305,
-    "modifiedTime": 1788180036305,
+    "systemVersion": "5.0.2",
+    "createdTime": 1794577098516,
+    "modifiedTime": 1794577098516,
     "lastModifiedBy": "9CRVH1u8nNgMxGRR"
-  },
-  "ownership": {
-    "default": 0
   }
 }

@@ -23,17 +23,15 @@
       },
       "_id": "ebqb4ap7PcmrzxQt",
       "type": "base",
-      "system": {},
-      "changes": [],
+      "system": {
+        "changes": []
+      },
       "disabled": false,
       "duration": {
-        "startTime": 1782131407,
-        "combat": null,
-        "seconds": null,
-        "rounds": null,
-        "turns": null,
-        "startRound": null,
-        "startTurn": null
+        "value": null,
+        "units": "seconds",
+        "expiry": null,
+        "expired": false
       },
       "description": "",
       "tint": "#ffffff",
@@ -44,11 +42,23 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "exportSource": null,
-        "coreVersion": "13.351",
+        "coreVersion": "14.369",
         "systemId": "dsk",
-        "systemVersion": "4.2.8",
-        "lastModifiedBy": null
-      }
+        "systemVersion": "5.0.2",
+        "lastModifiedBy": "9CRVH1u8nNgMxGRR",
+        "createdTime": 1794577098528,
+        "modifiedTime": 1794577098528
+      },
+      "start": {
+        "combat": null,
+        "round": null,
+        "time": 1782131407,
+        "turn": null,
+        "combatant": null,
+        "initiative": null
+      },
+      "showIcon": 1,
+      "folder": null
     }
   ],
   "type": "ahnengabe",
@@ -71,6 +81,9 @@
     "resist": "-"
   },
   "folder": "Bfgy2Rjd3j1lTvPi",
+  "ownership": {
+    "default": 0
+  },
   "flags": {},
   "_stats": {
     "compendiumSource": "Item.qD0jm6V5JVtooVrt",
@@ -78,18 +91,15 @@
     "exportSource": {
       "worldId": "dsk-zum-erstellen",
       "uuid": "Item.rOSRQ8tN5I2li3SE",
-      "coreVersion": "13.351",
+      "coreVersion": "14.369",
       "systemId": "dsk",
-      "systemVersion": "4.2.8"
+      "systemVersion": "5.0.2"
     },
-    "coreVersion": "13.351",
+    "coreVersion": "14.369",
     "systemId": "dsk",
-    "systemVersion": "4.2.8",
-    "createdTime": 1787737780067,
-    "modifiedTime": 1787737807112,
+    "systemVersion": "5.0.2",
+    "createdTime": 1794577098528,
+    "modifiedTime": 1794577098528,
     "lastModifiedBy": "9CRVH1u8nNgMxGRR"
-  },
-  "ownership": {
-    "default": 0
   }
 }
