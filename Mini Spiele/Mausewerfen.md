@@ -1,195 +1,217 @@
-Mäusewerfen
+# 🐭 Mäusewerfen
 
-Ein beliebter Tavernen- und Jahrmarktwettbewerb unter Erwachten: Wer befördert seine Maus am geschicktesten über die Wurfbahn? Selbstverständlich landen die Mäuse auf einer weichen und sicheren Zielfläche.
+> Ein beliebter Tavernen- und Jahrmarktwettbewerb unter Erwachten: Wer befördert seine Maus am geschicktesten über die Wurfbahn? Selbstverständlich landen die Mäuse auf einer weichen und sicheren Zielfläche.
 
-Grundregeln
+## Grundregeln
 
-Teilnehmer: Zwei oder mehr Werfer können gegeneinander antreten. Jeder benötigt eine Maus.
+- **Teilnehmer:** Zwei oder mehr Werfer können gegeneinander antreten. Jeder benötigt eine Maus.
+- **Probe:** Geworfen wird mit einer Probe auf **Kraftakt**.
+- **Grundschwierigkeit:** Eine einfache freie Wurfbahn ist **Anspruchsvoll (+0)**.
+- **Qualitätsstufen:** Die erreichten QS bestimmen die Qualität und beim normalen Weitwurf gleichzeitig die Wurfweite.
+- **Gewinner:** Beim direkten Wettbewerb gewinnt der Werfer mit den meisten QS.
 
-Probe: Geworfen wird mit einer Probe auf Kraftakt.
+---
 
-Grundschwierigkeit: Eine einfache freie Wurfbahn ist Anspruchsvoll (+0).
+## 1. Körperkraft des Werfers
 
-Qualitätsstufen: Die erreichten QS bestimmen die Qualität und beim normalen Weitwurf gleichzeitig die Wurfweite.
+Die **Körperkraft (KK)** des Werfers bestimmt den persönlichen Modifikator auf die Kraftakt-Probe.
 
-Gewinner: Beim direkten Wettbewerb gewinnt der Werfer mit den meisten QS.
+| Körperkraft | Einschätzung | Modifikator |
+|---|---|---:|
+| **KK 7 oder weniger** | Extrem schlecht | **-3** |
+| **KK 8–9** | Miserabel | **-2** |
+| **KK 10–11** | Dürftig | **-1** |
+| **KK 12–13** | Passabel | **+0** |
+| **KK 14–15** | Fähig | **+1** |
+| **KK 16–17** | Herausragend | **+2** |
+| **KK 18 oder mehr** | Meisterhaft | **+3** |
 
-1. Körperkraft des Werfers
+---
 
-Die Körperkraft (KK) des Werfers bestimmt den persönlichen Modifikator auf die Kraftakt-Probe.
+## 2. Wie verhält sich die Maus?
 
-KK 7 oder weniger – Extrem schlecht: -3
+Auch die Maus hat ein Wörtchen mitzureden. Wähle genau eine Möglichkeit:
 
-KK 8–9 – Miserabel: -2
+| Verhalten der Maus | Modifikator |
+|---|---:|
+| **Trainierte Wurfmaus** | **+1** |
+| **Die Maus macht mit** | **+0** |
+| **Die Maus wehrt sich** | **-2** |
 
-KK 10–11 – Dürftig: -1
+**Trainierte Wurfmaus:** Die Maus wurde von einem Mäusezüchter für das Mäusewerfen trainiert und weiß genau, was beim Wurf zu tun ist.
 
-KK 12–13 – Passabel: +0
+**Die Maus macht mit:** Die Maus lässt sich ohne Widerstand werfen.
 
-KK 14–15 – Fähig: +1
+**Die Maus wehrt sich:** Zappeln, Kratzen und Festklammern machen einen kontrollierten Wurf deutlich schwieriger.
 
-KK 16–17 – Herausragend: +2
+---
 
-KK 18 oder mehr – Meisterhaft: +3
+## 3. Fokussieren oder einfach werfen?
 
-2. Wie verhält sich die Maus?
+- **Einfach werfen:** +0
+- **Fokussieren:** +1
 
-Auch die Maus hat ein Wörtchen mitzureden. Wähle genau eine der folgenden Möglichkeiten:
+Beim **Fokussieren** nimmt sich der Werfer vor dem Wurf einen Moment Zeit, um Griff, Haltung und Wurfbahn vorzubereiten.
 
-Trainierte Wurfmaus: +1. Die Maus wurde von einem Mäusezüchter für das Mäusewerfen trainiert und weiß genau, was beim Wurf zu tun ist.
+> **Wichtig:** Fokussieren muss vor dem Wurf angesagt werden.
 
-Die Maus macht mit: +0. Die Maus lässt sich ohne Widerstand werfen.
+---
 
-Die Maus wehrt sich: -2. Zappeln, Kratzen und Festklammern machen einen kontrollierten Wurf deutlich schwieriger.
+## 4. Persönlichen Modifikator bestimmen
 
-3. Fokussieren oder einfach werfen?
+Vor dem Wurf werden alle persönlichen Modifikatoren zusammengerechnet:
 
-Einfach werfen: +0.
+**KK-Modifikator + Verhalten der Maus + Fokus = persönlicher Modifikator**
 
-Fokussieren: +1. Der Werfer nimmt sich vor dem Wurf einen Moment Zeit, um Griff, Haltung und Wurfbahn vorzubereiten.
+### Beispiel
 
-Wichtig: Fokussieren muss vor dem Wurf angesagt werden.
+- Der Werfer besitzt **KK 10** → **-1**
+- Die Maus wurde von einem Mäusezüchter trainiert → **+1**
+- Der Werfer fokussiert sich → **+1**
 
-4. Persönlichen Modifikator bestimmen
+**Gesamtmodifikator: +1**
 
-Die Modifikatoren werden zusammengerechnet:
+---
 
-KK-Modifikator + Verhalten der Maus + Fokus = persönlicher Modifikator
+## 5. Schwierigkeit der Wurfbahn
 
-Beispiel
+Bei einer normalen freien Wurfbahn wird auf **Anspruchsvoll (+0)** geworfen.
 
-Der Werfer besitzt KK 10: -1.
+Interessanter wird Mäusewerfen mit Hindernissen, Parcours oder beweglichen Zielen.
 
-Die Maus wurde von einem Mäusezüchter trainiert: +1.
+| Schwierigkeit | Modifikator | Beispiel |
+|---|---:|---|
+| **Extrem leicht** | **+16** | Praktisch kein Hindernis und sehr große, nahe Zielfläche |
+| **Sehr leicht** | **+8** | Sehr kurze Strecke mit besonders großer Zielfläche |
+| **Leicht** | **+4** | Kurze Strecke oder besonders günstige Wurfbahn |
+| **Anspruchsvoll** | **+0** | Normale freie Wurfbahn |
+| **Schwierig** | **-4** | Einfaches Hindernis oder großes festes Ziel |
+| **Sehr schwierig** | **-8** | Anspruchsvoller Parcours oder kleines festes Ziel |
+| **Extrem schwierig** | **-16** | Besonders schwierige Hindernisbahn oder bewegliches Ziel |
 
-Der Werfer fokussiert sich: +1.
+---
 
-Persönlicher Gesamtmodifikator: +1.
+## 6. Die Kraftakt-Probe
 
-5. Schwierigkeit der Wurfbahn
+1. Wähle die **Schwierigkeit der Wurfbahn**.
+2. Bestimme den **persönlichen Modifikator** des Werfers.
+3. Wende beide Modifikatoren auf die Probe an.
+4. Lege die Probe auf **Kraftakt** ab.
+5. Bei Erfolg werden die erreichten **Qualitätsstufen (QS)** verwendet.
+6. Ein Misserfolg entspricht **0 QS**.
 
-Bei einer normalen freien Wurfbahn wird auf Anspruchsvoll (+0) geworfen. Interessanter wird Mäusewerfen mit Hindernissen, Parcours oder beweglichen Zielen.
+---
 
-Extrem leicht (+16): Praktisch kein Hindernis und eine sehr große, nahe Zielfläche.
-
-Sehr leicht (+8): Sehr kurze Strecke mit besonders großer Zielfläche.
-
-Leicht (+4): Kurze Strecke oder besonders günstig aufgebaute Wurfbahn.
-
-Anspruchsvoll (+0): Normale freie Wurfbahn ohne besondere Hindernisse.
-
-Schwierig (-4): Einfaches Hindernis oder ein großes festes Ziel.
-
-Sehr schwierig (-8): Anspruchsvoller Parcours oder kleines festes Ziel.
-
-Extrem schwierig (-16): Besonders schwierige Hindernisbahn oder ein bewegliches Ziel.
-
-6. Die Kraftakt-Probe
-
-Wähle die Schwierigkeit der Wurfbahn.
-
-Trage anschließend den persönlichen Modifikator des Werfers ein.
-
-Lege die Probe auf Kraftakt ab.
-
-Bei Erfolg werden die erreichten Qualitätsstufen (QS) verwendet.
-
-Ein Misserfolg entspricht 0 QS.
-
-Variante 1 – Mäuseweitwurf
+# 🐭 Variante 1: Mäuseweitwurf
 
 Beim klassischen Mäuseweitwurf gibt es keine Hindernisse. Die Zielfläche ist weich und ausreichend groß.
 
-Schwierigkeit: Anspruchsvoll (+0).
+**Schwierigkeit:** Anspruchsvoll (+0)
 
-QS 0: Der Wurf misslingt und wird nicht gewertet.
+| Ergebnis | Wurfweite |
+|---|---:|
+| **QS 0** | Wurf misslungen, keine Wertung |
+| **QS 1** | 1 Schritt |
+| **QS 2** | 2 Schritt |
+| **QS 3** | 3 Schritt |
+| **QS 4** | 4 Schritt |
+| **QS 5** | 5 Schritt |
+| **QS 6** | 6 Schritt |
 
-QS 1: 1 Schritt.
+> **Merke:** Beim Mäuseweitwurf gilt einfach: **QS = Wurfweite in Schritt.**
 
-QS 2: 2 Schritt.
+---
 
-QS 3: 3 Schritt.
-
-QS 4: 4 Schritt.
-
-QS 5: 5 Schritt.
-
-QS 6: 6 Schritt.
-
-Merke: Beim Weitwurf gilt einfach QS = Wurfweite in Schritt.
-
-Variante 2 – Mäuseparcours
+# 🧱 Variante 2: Mäuseparcours
 
 Beim Mäuseparcours geht es nicht nur darum, weit zu werfen. Die Maus muss durch, über oder auf ein bestimmtes Hindernis beziehungsweise Ziel befördert werden.
 
-Die Spielleitung legt vor dem Wurf die passende Schwierigkeit fest.
+- Die Spielleitung legt vor dem Wurf die passende **Schwierigkeit** fest.
+- Eine erfolgreiche Kraftakt-Probe bedeutet, dass die Maus den vorgesehenen Abschnitt des Parcours bewältigt.
+- Die erreichten **QS** zeigen, wie gut und sicher der Wurf gelungen ist.
+- Bei einem Wettbewerb gewinnt der erfolgreiche Teilnehmer mit den meisten QS.
 
-Eine erfolgreiche Kraftakt-Probe bedeutet, dass die Maus den vorgesehenen Abschnitt des Parcours bewältigt.
+### Beispiel-Parcours
 
-Die erreichten QS zeigen, wie gut und sicher der Wurf gelungen ist.
+Ein Parcours könnte beispielsweise aus mehreren Wurfstationen bestehen:
 
-Bei einem Wettbewerb gewinnt der erfolgreiche Teilnehmer mit den meisten QS.
+1. **Freie Wurfbahn** → Anspruchsvoll (+0)
+2. **Über ein kleines Hindernis** → Schwierig (-4)
+3. **Auf eine kleine gepolsterte Zielfläche** → Sehr schwierig (-8)
 
-Variante 3 – Bewegliches Ziel
+Die konkreten Stationen können vom Veranstalter frei gestaltet werden.
+
+---
+
+# 🎯 Variante 3: Bewegliches Ziel
 
 Für besonders erfahrene Mäusewerfer kann sich die gepolsterte Zielfläche bewegen.
 
-Schwierigkeit: In der Regel Extrem schwierig (-16).
+- **Schwierigkeit:** In der Regel **Extrem schwierig (-16)**.
+- Eine erfolgreiche Probe bedeutet, dass die Maus sicher auf der beweglichen Zielfläche landet.
+- Bei mehreren erfolgreichen Teilnehmern entscheidet die höhere QS.
 
-Eine erfolgreiche Probe bedeutet, dass die Maus sicher auf der beweglichen Zielfläche landet.
+---
 
-Auch hier entscheidet bei mehreren erfolgreichen Werfern die höhere QS.
+## Mehrere Teilnehmer
 
-Mehrere Teilnehmer
+Bei einem Wettbewerb gelten für alle dieselben Streckenbedingungen.
 
-Alle Teilnehmer werfen unter denselben Bedingungen.
+Jeder Werfer verwendet jedoch:
 
-Jeder verwendet seinen eigenen KK-, Maus- und Fokusmodifikator.
+- den eigenen **KK-Modifikator**
+- das individuelle **Verhalten der Maus**
+- den eigenen **Fokus-Modifikator**
 
-Die erzielten QS werden miteinander verglichen.
+Anschließend werden die erzielten QS miteinander verglichen.
 
-Die höchste QS gewinnt.
+- **Höchste QS:** gewinnt.
+- **Misserfolg:** 0 QS.
+- Beim Mäuseweitwurf entspricht die QS gleichzeitig der erreichten Entfernung.
 
-Beim Weitwurf entspricht die QS gleichzeitig der erreichten Entfernung.
+---
 
-Gleichstand
+## Gleichstand
 
-Erreichen mehrere Teilnehmer dieselbe höchste QS, endet der Durchgang unentschieden.
+Erreichen mehrere Teilnehmer dieselbe höchste QS, endet der Durchgang zunächst unentschieden.
 
-Für ein Stechen führen die betreffenden Teilnehmer einen weiteren Wurf unter denselben Bedingungen durch.
+Dann kommt es zum **Stechen**:
 
-Das Stechen wird wiederholt, bis ein eindeutiger Sieger feststeht.
+1. Nur die am Gleichstand beteiligten Teilnehmer werfen erneut.
+2. Es gelten dieselben Bedingungen wie beim vorherigen Wurf.
+3. Die höhere QS gewinnt.
+4. Besteht erneut Gleichstand, wird das Stechen wiederholt.
 
-Belohnungsideen
+---
 
-Teilnahme: Ein kleiner Snack für Werfer und Maus.
+## 🎁 Belohnungsideen
 
-Gelungener Parcours: Freigetränk oder kleine Leckerei.
+- **Teilnahme:** Kleiner Snack für Werfer und Maus.
+- **Gelungener Parcours:** Freigetränk oder kleine Leckerei.
+- **Sieger eines Durchgangs:** Kleiner Sachpreis, Mäusefutter oder Gutschein des Veranstalters.
+- **Parcours-Sieger:** Kleine Trophäe oder Schleife für die Maus.
+- **Besonders erfolgreiche trainierte Wurfmaus:** Eigener Ehrentitel für die Maus.
 
-Sieger eines Durchgangs: Kleiner Sachpreis, Mäusefutter oder ein Gutschein des Veranstalters.
+### Mögliche Ehrentitel
 
-Parcours-Sieger: Eine kleine Trophäe oder Schleife für die Maus.
+- 🐭 **Flitzepfote**
+- 🪽 **Flugmaus**
+- 🎯 **Meisterin des weichen Landes**
+- 🏆 **Königin der Wurfbahn**
 
-Trainierte Wurfmaus mit besonders gutem Ergebnis: Die Maus darf einen eigenen Ehrentitel erhalten, beispielsweise „Flitzepfote“, „Flugmaus“ oder „Meisterin des weichen Landes“.
+---
 
-Kurzfassung
+## ⚡ Kurzfassung
 
-1. KK-Modifikator bestimmen.
-
-2. Maus bestimmen: trainiert +1 / macht mit +0 / wehrt sich -2.
-
-3. Fokussieren +1 oder einfach werfen +0.
-
+1. **KK-Modifikator** bestimmen.
+2. Maus bestimmen: **trainiert +1 / macht mit +0 / wehrt sich -2**.
+3. **Fokussieren +1** oder einfach werfen +0.
 4. Schwierigkeit der Wurfbahn wählen.
+5. Alle Modifikatoren zusammenrechnen.
+6. Probe auf **Kraftakt** ablegen.
+7. Misserfolg = **0 QS**.
+8. Beim Mäuseweitwurf: **QS = Schritt**.
+9. Beim Parcours: **höchste erfolgreiche QS gewinnt**.
+10. Gleichstand = **Stechen**.
 
-5. Kraftakt-Probe ablegen.
-
-6. Misserfolg = 0 QS.
-
-7. Beim Weitwurf: QS = Schritt.
-
-8. Beim Parcours: höchste erfolgreiche QS gewinnt.
-
-9. Gleichstand = Stechen.
-
-Merksatz: Kraftakt entscheidet den Wurf, Körperkraft und Maus beeinflussen die Chancen und die QS zeigt, wie gut die Maus fliegt.
+> **Merksatz:** Kraftakt entscheidet den Wurf, Körperkraft und Maus beeinflussen die Chancen und die QS zeigen, wie gut die Maus fliegt.
