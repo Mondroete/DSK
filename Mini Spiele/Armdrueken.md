@@ -1,177 +1,136 @@
-Armdrücken
+# 💪 Armdrücken
 
-Zwei Erwachte, eine feste Unterlage und eine einfache Frage: Wer hat mehr Kraft in den Pfoten?
+> Zwei Erwachte, eine feste Unterlage und eine einfache Frage: Wer hat mehr Kraft in den Pfoten?
 
-Grundregeln
+## Grundregeln
 
-Teilnehmer: Zwei Erwachte treten direkt gegeneinander an.
+- **Teilnehmer:** Zwei Erwachte treten direkt gegeneinander an.
+- **Probe:** Beide Teilnehmer legen eine Probe auf **Kraftakt** ab.
+- **Vergleich:** Die Proben werden als **Vergleichsprobe** ausgewertet.
+- **Ziel:** Wer mehr **Qualitätsstufen (QS)** erzielt, drückt die Pfote des Gegners auf die Unterlage und gewinnt.
 
-Probe: Beide Teilnehmer legen eine Probe auf Kraftakt ab.
-
-Vergleich: Die Proben werden als Vergleichsprobe ausgewertet.
-
-Ziel: Wer mehr Qualitätsstufen erzielt, drückt die Pfote des Gegners auf die Unterlage und gewinnt.
-
-1. Pfoten auf den Tisch!
+## 1. Pfoten auf den Tisch!
 
 Beide Gegner nehmen ihre Position ein und legen die Pfoten gegeneinander.
 
-Es gibt beim Armdrücken keine passive Partei. Beide Teilnehmer versuchen gleichzeitig, den anderen niederzudrücken.
+Es gibt beim Armdrücken **keine passive Partei**. Beide Teilnehmer versuchen gleichzeitig, den anderen niederzudrücken.
 
-2. Kraftakt würfeln
+## 2. Kraftakt würfeln
 
-Beide Teilnehmer legen ihre Probe auf Kraftakt ab.
+Beide Teilnehmer legen ihre Probe auf **Kraftakt** ab.
 
-Eine misslungene Probe entspricht 0 QS.
+- Eine misslungene Probe entspricht **0 QS**.
+- Die erreichten QS beider Teilnehmer werden miteinander verglichen.
 
-Die erreichten Qualitätsstufen beider Teilnehmer werden miteinander verglichen.
+## 3. Wer gewinnt?
 
-3. Wer gewinnt?
+- **Mehr QS:** Der Teilnehmer mit mehr QS gewinnt das Armdrücken.
+- **Gleiche QS:** Das Armdrücken endet zunächst unentschieden, da es keine passive Partei gibt.
+- **Stechen:** Bei Gleichstand bleiben beide Pfoten zitternd in der Mitte. Beide Teilnehmer legen sofort eine neue Vergleichsprobe auf **Kraftakt** ab.
 
-Mehr QS: Der Teilnehmer mit mehr QS gewinnt das Armdrücken.
+Das Stechen wird wiederholt, bis ein eindeutiger Sieger feststeht.
 
-Gleiche QS: Das Armdrücken endet zunächst unentschieden, da es keine passive Partei gibt.
+---
 
-Stechen: Bei Gleichstand bleiben beide Pfoten zitternd in der Mitte. Beide Teilnehmer legen sofort eine neue Vergleichsprobe auf Kraftakt ab.
+## Qualitätsstufen
 
-Das wird wiederholt, bis ein eindeutiger Sieger feststeht.
-
-Qualitätsstufen
-
-Die QS zeigen nicht nur, wer gewonnen hat, sondern auch, wie deutlich der Sieg ausgefallen ist.
+Die QS zeigen nicht nur, wer gewonnen hat, sondern auch, **wie deutlich der Sieg ausgefallen ist**.
 
 Die QS des Verlierers werden von den QS des Gewinners abgezogen.
 
-Die verbleibenden QS zeigen die Stärke des Sieges.
+### Beispiel
 
-Beispiel
+Minka erreicht bei **Kraftakt 4 QS**.  
+Der Gegner erreicht **2 QS**.
 
-Minka erreicht bei Kraftakt 4 QS.
+**4 QS − 2 QS = 2 QS Unterschied**
 
-Ihr Gegner erreicht 2 QS.
+Minka gewinnt damit deutlich.
 
-Minka gewinnt mit 2 QS Unterschied.
+### Wie deutlich war der Sieg?
 
-Wie deutlich war der Sieg?
+| QS-Unterschied | Ergebnis |
+|---|---|
+| **1 QS** | Knapper Sieg. Beide haben lange dagegengehalten. |
+| **2 QS** | Klarer Sieg. |
+| **3 QS** | Deutliche Demonstration der eigenen Kraft. |
+| **4+ QS** | Überwältigender Sieg. Das Publikum dürfte sich daran erinnern. |
 
-1 QS Unterschied: Knapper Sieg. Beide haben lange dagegengehalten.
+---
 
-2 QS Unterschied: Klarer Sieg.
+## Optionale Umstände
 
-3 QS Unterschied: Deutliche Demonstration der eigenen Kraft.
+Normalerweise treten beide Teilnehmer ohne weitere Modifikatoren gegeneinander an.
 
-4+ QS Unterschied: Überwältigender Sieg. Das Publikum dürfte sich daran erinnern.
+- **Normales Armdrücken:** Keine Erleichterung oder Erschwernis.
+- **Ungünstige Position:** Die Spielleitung kann die Kraftakt-Probe erschweren.
+- **Deutlich günstige Position:** Die Spielleitung kann die Kraftakt-Probe erleichtern.
 
-Optionale Umstände
+---
 
-Normalerweise treten beide Teilnehmer ohne Modifikatoren gegeneinander an. Besondere Umstände können die Spielleitung jedoch zu einer Erleichterung oder Erschwernis veranlassen.
+# 🏆 Turniermodus
 
-Normales Armdrücken: Keine zusätzliche Erleichterung oder Erschwernis.
+Bei mehreren Teilnehmern kann das Armdrücken als Ausscheidungsturnier ausgetragen werden.
 
-Ungünstige Position: Die Spielleitung kann die Kraftakt-Probe erschweren.
+**Verlieren → Ausscheiden → Gewinnen → nächste Runde**
 
-Deutlich günstige Position: Die Spielleitung kann die Kraftakt-Probe erleichtern.
+## Turnierablauf
 
-Turnier
+1. **Paarungen bilden:** Die Teilnehmer werden paarweise gegeneinander gesetzt.
+2. **Duelle austragen:** Jedes Paar führt eine Vergleichsprobe **Kraftakt gegen Kraftakt** durch.
+3. **Gewinner:** Wer mehr QS erzielt, zieht in die nächste Runde ein.
+4. **Gleichstand:** Bei gleichen QS gibt es keine passive Partei. Beide würfeln im Stechen erneut.
+5. **Ausscheiden:** Der Verlierer scheidet aus dem Turnier aus.
+6. **Finale:** Die letzten beiden verbliebenen Teilnehmer treten gegeneinander an.
 
-Bei mehreren Teilnehmern werden Duelle ausgetragen.
+## Beispiel: Turnier mit 8 Teilnehmern
 
-Der Gewinner eines Duells zieht in die nächste Runde ein.
+### Viertelfinale
 
-Das wird fortgesetzt, bis nur noch ein Teilnehmer übrig ist.
+- **Duell A:** Teilnehmer 1 vs. Teilnehmer 2 → **Sieger A**
+- **Duell B:** Teilnehmer 3 vs. Teilnehmer 4 → **Sieger B**
+- **Duell C:** Teilnehmer 5 vs. Teilnehmer 6 → **Sieger C**
+- **Duell D:** Teilnehmer 7 vs. Teilnehmer 8 → **Sieger D**
 
-Belohnungsideen
+### Halbfinale
 
-Gewonnenes Duell: Freigetränk, kleiner Snack oder der vereinbarte Einsatz.
+- **Sieger A vs. Sieger B** → **Finalist 1**
+- **Sieger C vs. Sieger D** → **Finalist 2**
 
-Turniersieger: Kleiner Sachpreis, Gutschein oder eine Trophäe der Taverne.
+### Finale
 
-Überwältigender Sieg: Ein passender Ehrentitel wie „Eisenpfote“, „Tischbezwinger“ oder „Stärkste Pfote des Abends“.
+**Finalist 1 vs. Finalist 2 → 🏆 Turniersieger**
 
-Kurzfassung
+## Ungerade Teilnehmerzahl
+
+Kann in einer Runde kein Gegner für einen Teilnehmer gefunden werden, erhält dieser ein **Freilos** und zieht automatisch in die nächste Runde ein.
+
+Das Freilos wird ausgelost.
+
+## Optional: Kampf um Platz 3
+
+Die beiden Verlierer des Halbfinales können ein zusätzliches Duell um den **3. Platz** austragen.
+
+---
+
+## 🎁 Belohnungen
+
+- **Gewonnenes Duell:** Freigetränk, kleiner Snack oder vereinbarter Einsatz.
+- **🥇 1. Platz:** Hauptpreis, Turnierpott und Ehrentitel **„Stärkste Pfote des Abends“**.
+- **🥈 2. Platz:** Kleiner Sachpreis, Freigetränk oder Gutschein.
+- **🥉 3. Platz:** Kleiner Trostpreis oder Spezialität des Hauses.
+- **Überwältigender Sieg:** Optionaler Titel wie **„Eisenpfote“** oder **„Tischbezwinger“**.
+
+---
+
+## ⚡ Kurzfassung
 
 1. Zwei Teilnehmer treten gegeneinander an.
-
-2. Beide würfeln auf Kraftakt.
-
-3. Mehr QS gewinnt.
-
-4. Misserfolg = 0 QS.
-
-5. Gleiche QS = Unentschieden, da es keine passive Partei gibt.
-
+2. Beide würfeln auf **Kraftakt**.
+3. **Mehr QS gewinnt.**
+4. Misserfolg = **0 QS**.
+5. Gleiche QS = **Unentschieden**.
 6. Bei Gleichstand erneut Kraftakt würfeln.
+7. Die QS-Differenz zeigt, wie deutlich gewonnen wurde.
 
-7. QS-Differenz zeigt, wie deutlich gewonnen wurde.
-
-Merksatz: Kraftakt gegen Kraftakt. Mehr QS gewinnt. Gleichstand? Pfoten bleiben stehen und es geht noch einmal!
-
-
-
-
-
-
-
-Turniermodus
-
-Bei mehreren Teilnehmern kann das Armdrücken als kleines Ausscheidungsturnier ausgetragen werden. Wer ein Duell verliert, scheidet aus. Wer gewinnt, zieht eine Runde weiter.
-
-Turnierablauf
-
-1. Paarungen bilden: Die Teilnehmer werden paarweise gegeneinander gesetzt.
-
-2. Duelle austragen: Jedes Paar führt eine Vergleichsprobe auf Kraftakt gegen Kraftakt durch.
-
-3. Gewinner: Wer mehr QS erzielt, zieht in die nächste Runde ein.
-
-4. Gleichstand: Bei gleichen QS gibt es keine passive Partei. Das Duell geht sofort ins Stechen und beide würfeln erneut.
-
-5. Ausscheiden: Der Verlierer eines Duells scheidet aus dem Turnier aus.
-
-6. Finale: Die letzten beiden verbliebenen Teilnehmer treten im Finale gegeneinander an.
-
-Beispiel – Turnier mit 8 Teilnehmern
-
-Viertelfinale
-
-Duell A: Teilnehmer 1 gegen Teilnehmer 2 → Sieger A
-
-Duell B: Teilnehmer 3 gegen Teilnehmer 4 → Sieger B
-
-Duell C: Teilnehmer 5 gegen Teilnehmer 6 → Sieger C
-
-Duell D: Teilnehmer 7 gegen Teilnehmer 8 → Sieger D
-
-Halbfinale
-
-Sieger A gegen Sieger B → Finalist 1
-
-Sieger C gegen Sieger D → Finalist 2
-
-Finale
-
-Finalist 1 gegen Finalist 2 → Turniersieger
-
-Turnier mit ungerader Teilnehmerzahl
-
-Kann in einer Runde kein Gegner für einen Teilnehmer gefunden werden, erhält dieser ein Freilos und zieht automatisch in die nächste Runde ein.
-
-Wer das Freilos erhält, wird ausgelost.
-
-Optional – Kampf um Platz 3
-
-Die beiden Verlierer des Halbfinales können ein zusätzliches Duell um den 3. Platz austragen.
-
-Turnierpreise
-
-1. Platz: Hauptpreis, vereinbarter Turnierpott und ein Ehrentitel wie „Stärkste Pfote des Abends“.
-
-2. Platz: Kleiner Sachpreis, Freigetränk oder Gutschein.
-
-3. Platz: Kleiner Trostpreis oder eine Spezialität des Hauses.
-
-Turnierübersicht
-
-8 Teilnehmer↓4 Viertelfinal-Sieger↓2 Halbfinal-Sieger↓Finale↓🏆 Turniersieger
-
-Merksatz: Kraftakt gegen Kraftakt → mehr QS gewinnt → Sieger kommt weiter → letzte Pfote am Tisch gewinnt das Turnier.
+> **Merksatz:** Kraftakt gegen Kraftakt. Mehr QS gewinnt. Gleichstand? Pfoten bleiben stehen und es geht noch einmal!
