@@ -1,145 +1,212 @@
-Trinken oder Erbrechen
+# 🍺 Trinken oder Erbrechen
 
-Ein klassisches Trinkspiel unter Erwachten: Becher für Becher wird geleert, bis nur noch eine Pfote aufrecht sitzt. Wer nicht mehr kann, sollte besser rechtzeitig aufgeben.
+> Ein klassisches Trinkspiel unter Erwachten: Becher für Becher wird geleert, bis nur noch eine Pfote aufrecht sitzt. Wer nicht mehr kann, sollte besser rechtzeitig aufgeben.
 
-Grundregeln
+## Grundregeln
 
-Teilnehmer: Zwei oder mehr Erwachte können teilnehmen.
+- **Teilnehmer:** Zwei oder mehr Erwachte können teilnehmen.
+- **Probe:** Nach jedem Getränk wird eine Probe auf **Selbstbeherrschung** abgelegt.
+- **Zustand:** Misslungene Proben verursachen **Betäubung**.
+- **Ziel:** Bleibe länger im Wettbewerb als deine Mittrinker.
+- **Aufgeben:** Vor jedem neuen Getränk darf freiwillig aufgegeben werden.
 
-Probe: Nach jedem Getränk wird eine Probe auf Selbstbeherrschung abgelegt.
+---
 
-Zustand: Misslungene Proben verursachen Betäubung.
-
-Ziel: Bleibe länger im Wettbewerb als deine Mittrinker.
-
-Aufgeben: Vor jedem neuen Getränk darf freiwillig aufgegeben werden.
-
-1. Erste Runde – Zum Wohl!
+## 1. Zum Wohl!
 
 Alle Teilnehmer trinken gleichzeitig ihr erstes Getränk.
 
-Anschließend legt jeder eine Probe auf Selbstbeherrschung ab.
+Anschließend legt jeder eine Probe auf **Selbstbeherrschung** ab.
 
-Die erste Probe wird als Anspruchsvoll (+0) abgelegt.
+Die erste Probe wird als **Anspruchsvoll (+0)** abgelegt.
 
-2. Es wird immer schwieriger
+---
+
+## 2. Es wird immer schwieriger
 
 Je länger das Trinkspiel dauert, desto schwerer wird es, den nächsten Becher bei sich zu behalten.
 
-1. Getränk: Anspruchsvoll (+0)
+| Getränk | Schwierigkeit | Modifikator |
+|---:|---|---:|
+| **1. Getränk** | Anspruchsvoll | **+0** |
+| **2. Getränk** | Anspruchsvoll | **+0** |
+| **3. Getränk** | Schwierig | **-4** |
+| **4. Getränk** | Schwierig | **-4** |
+| **5. Getränk** | Sehr schwierig | **-8** |
+| **6. Getränk und weitere** | Extrem schwierig | **-16** |
 
-2. Getränk: Anspruchsvoll (+0)
+> Die Schwierigkeit der Trinkrunde und vorhandene Betäubung wirken gleichzeitig.
 
-3. Getränk: Schwierig (-4)
+---
 
-4. Getränk: Schwierig (-4)
+## 3. Erfolg & Misslingen
 
-5. Getränk: Sehr schwierig (-8)
+### Probe gelungen
 
-6. Getränk und weitere: Extrem schwierig (-16)
+Du verträgst das Getränk und bleibst im Wettbewerb.
 
-3. Erfolg & Misslingen
+### Probe misslungen
 
-Probe gelungen: Du verträgst das Getränk und bleibst im Wettbewerb.
+Du erhältst **1 Stufe Betäubung**.
 
-Probe misslungen: Du erhältst 1 Stufe Betäubung.
+Die nächste Trinkrunde beginnt anschließend ganz normal, sofern du noch weitermachen möchtest und dazu in der Lage bist.
 
-Die nächste Runde beginnt anschließend ganz normal, sofern du noch weitermachen möchtest und dazu in der Lage bist.
+---
 
-4. Betäubung durch Alkohol
+# 🍻 Betäubung durch Alkohol
 
-Für dieses Minispiel verwenden wir direkt den DSK-Zustand Betäubung.
+Für dieses Minispiel wird direkt der DSK-Zustand **Betäubung** verwendet.
 
-Jede Stufe Betäubung erschwert alle Fertigkeitsproben um -1.
+- Jede Stufe Betäubung erschwert **alle Fertigkeitsproben um -1**.
+- Bereits vorhandene Betäubung erschwert damit automatisch die nächste Probe auf **Selbstbeherrschung**.
+- Diese Erschwernis kommt zur Schwierigkeit der aktuellen Trinkrunde hinzu.
+- Bei **8 Stufen Betäubung** wird der Charakter bewusstlos und scheidet sofort aus.
 
-Damit erschwert bereits vorhandene Betäubung automatisch auch die nächste Probe auf Selbstbeherrschung.
+### Übersicht
 
-Die Erschwernis durch Betäubung kommt zusätzlich zur Schwierigkeit der jeweiligen Trinkrunde hinzu.
+| Betäubung | Zusätzliche Erschwernis |
+|---:|---:|
+| **0** | **+0** |
+| **1** | **-1** |
+| **2** | **-2** |
+| **3** | **-3** |
+| **4** | **-4** |
+| **5** | **-5** |
+| **6** | **-6** |
+| **7** | **-7** |
+| **8** | **Bewusstlos** |
 
-Bei 8 Stufen Betäubung wird der Charakter bewusstlos und scheidet sofort aus.
+---
 
-Beispiel
+## Beispiel
 
-Minka hat bereits 2 Stufen Betäubung.
+Minka besitzt bereits **2 Stufen Betäubung**.
 
-Die dritte Trinkrunde ist Schwierig (-4).
+Die dritte Trinkrunde ist:
 
-Durch die 2 Stufen Betäubung kommen weitere -2 hinzu.
+**Schwierig (-4)**
 
-Minkas Probe auf Selbstbeherrschung wird damit insgesamt um -6 erschwert.
+Durch die Betäubung kommen weitere:
 
-5. Qualitätsstufen – souverän getrunken
+**-2**
 
-Eine gelungene Probe kann zeigen, wie gut ein Teilnehmer das Getränk verträgt.
+hinzu.
 
-QS 1–2: Geschafft. Der Becher bleibt drin.
+Damit wird Minkas Probe auf **Selbstbeherrschung insgesamt um -6 erschwert**.
 
-QS 3–4: Souverän. Du lässt dir kaum etwas anmerken.
+---
 
-QS 5–6: Beeindruckend. Für diesen Teilnehmer sieht das Getränk fast wie Wasser aus.
+## 4. Qualitätsstufen – souverän getrunken
 
-Die QS verändern die Wirkung der Runde nicht, können aber für Prahlerei, Beschreibung und Sonderpreise verwendet werden.
+Eine gelungene Probe kann außerdem zeigen, wie gut ein Teilnehmer mit dem Getränk zurechtkommt.
 
-6. Aufgeben
+| QS | Ergebnis |
+|---|---|
+| **QS 1–2** | Geschafft. Der Becher bleibt drin. |
+| **QS 3–4** | Souverän. Du lässt dir kaum etwas anmerken. |
+| **QS 5–6** | Beeindruckend. Für dich sieht das Getränk fast wie Wasser aus. |
 
-Vor jedem neuen Getränk darf ein Teilnehmer freiwillig sagen: „Genug.“
+> Die QS verändern die unmittelbare Wirkung der Trinkrunde nicht. Sie können jedoch für Beschreibung, Prahlerei und Sonderpreise verwendet werden.
 
-Wer freiwillig aufgibt, scheidet aus dem Wettbewerb aus.
+---
 
-Die bereits erhaltenen Stufen Betäubung bleiben bestehen.
+## 5. Aufgeben
 
-7. Erbrechen
+Vor jedem neuen Getränk darf ein Teilnehmer freiwillig sagen:
 
-Misslingt einem Teilnehmer eine Selbstbeherrschungsprobe, obwohl bereits mindestens 4 Stufen Betäubung vorliegen, muss dieser sich übergeben.
+> **„Genug.“**
 
-Der Teilnehmer scheidet damit aus dem Trinkspiel aus.
+Wer freiwillig aufgibt:
 
-Die durch das Trinkspiel erhaltene Betäubung verschwindet dadurch nicht.
+- scheidet aus dem Wettbewerb aus,
+- muss keinen weiteren Becher trinken,
+- behält aber seine bereits erhaltenen Stufen Betäubung.
 
-8. Wer gewinnt?
+Manchmal ist eine trockene Pfote besser als ein nasses Fell.
 
-Das Trinkspiel läuft weiter, bis nur noch ein Teilnehmer übrig ist.
+---
 
-Wer freiwillig aufgibt, sich übergeben muss oder bewusstlos wird, scheidet aus.
+# 🤢 Erbrechen
 
-Der letzte verbliebene Teilnehmer gewinnt.
+Misslingt einem Teilnehmer eine Probe auf **Selbstbeherrschung**, obwohl bereits mindestens **4 Stufen Betäubung** vorliegen, muss sich der Teilnehmer übergeben.
 
-Mehrere Teilnehmer
+Das bedeutet:
+
+- Der Teilnehmer scheidet sofort aus dem Trinkspiel aus.
+- Die bereits erhaltene Betäubung verschwindet dadurch nicht.
+
+### Kurz gesagt
+
+**0–3 Betäubung + Misserfolg**  
+→ +1 Betäubung und weiterspielen.
+
+**4+ Betäubung + Misserfolg**  
+→ +1 Betäubung, erbrechen und ausscheiden.
+
+**8 Betäubung**  
+→ bewusstlos und ausscheiden.
+
+---
+
+# 🏆 Wer gewinnt?
+
+Das Trinkspiel läuft weiter, bis nur noch **ein Teilnehmer** übrig ist.
+
+Ein Teilnehmer scheidet aus, wenn:
+
+- freiwillig aufgegeben wird,
+- der Teilnehmer sich übergeben muss,
+- oder der Teilnehmer bewusstlos wird.
+
+🏆 **Die letzte verbleibende Pfote gewinnt.**
+
+---
+
+## Mehrere Teilnehmer
 
 Alle Teilnehmer trinken in jeder Runde gleichzeitig.
 
-Jeder legt seine eigene Probe auf Selbstbeherrschung ab.
+Jeder legt seine eigene Probe auf **Selbstbeherrschung** ab.
 
-Es handelt sich nicht um eine Vergleichsprobe. Jeder kämpft gegen das Getränk und die steigende Schwierigkeit.
+> **Wichtig:** Dies ist keine Vergleichsprobe.
 
-Belohnungsideen
+Jeder Teilnehmer kämpft gegen:
 
-Letzter Teilnehmer: Gewinnt den vereinbarten Einsatz.
+1. die Schwierigkeit des aktuellen Getränks,
+2. die eigene zunehmende Betäubung,
+3. und irgendwann vermutlich gegen die Erkenntnis, dass der nächste Becher eine ausgesprochen schlechte Idee ist.
 
-5 Getränke überstanden: Kleiner Sonderpreis oder Freigetränk für einen späteren Besuch.
+---
 
-QS 5–6 bei einer sehr schwierigen Runde: Besonderer Anerkennungspreis.
+# 🎁 Belohnungsideen
 
-Sieger: Passender Ehrentitel wie „Eiserner Magen“, „Letzte Pfote am Fass“ oder „Bezwinger des Bechers“.
+- **Letzter Teilnehmer:** Gewinnt den vereinbarten Einsatz.
+- **5 Getränke überstanden:** Kleiner Sonderpreis oder Freigetränk für einen späteren Besuch.
+- **QS 5–6 bei einer sehr schwierigen Runde:** Besonderer Anerkennungspreis.
+- **Sieger:** Kleiner Sachpreis oder Trophäe des Hauses.
 
-Kurzfassung
+### Mögliche Ehrentitel
+
+- 🍺 **Eiserner Magen**
+- 🐾 **Letzte Pfote am Fass**
+- 🏆 **Bezwinger des Bechers**
+- 🍻 **Schrecken des Schankwirts**
+
+---
+
+# ⚡ Kurzfassung
 
 1. Alle trinken.
+2. Probe auf **Selbstbeherrschung**.
+3. Schwierigkeit steigt:
 
-2. Probe auf Selbstbeherrschung.
+   **+0 → +0 → -4 → -4 → -8 → danach -16**
 
-3. Schwierigkeit steigt: +0 / +0 / -4 / -4 / -8 / danach -16.
+4. Misserfolg = **+1 Betäubung**.
+5. Jede Stufe Betäubung = zusätzlich **-1 auf Fertigkeitsproben**.
+6. Ab bereits **4 Betäubung + misslungener Probe** = Erbrechen und ausscheiden.
+7. **8 Betäubung** = bewusstlos und ausscheiden.
+8. Vor jeder neuen Runde darf freiwillig aufgegeben werden.
+9. Die letzte verbleibende Pfote gewinnt.
 
-4. Misslungen = +1 Betäubung.
-
-5. Jede Stufe Betäubung erschwert weitere Fertigkeitsproben zusätzlich um -1.
-
-6. Ab 4 Betäubung + misslungene Probe = Erbrechen und ausscheiden.
-
-7. 8 Betäubung = Bewusstlos und ausscheiden.
-
-8. Vor einer neuen Runde darf freiwillig aufgegeben werden.
-
-9. Letzte verbleibende Pfote gewinnt.
-
-Merksatz: Becher leeren, Selbstbeherrschung würfeln, Betäubung sammeln – und wissen, wann die eigene Pfote besser vom nächsten Getränk lässt.
+> **Merksatz:** Becher leeren, Selbstbeherrschung würfeln, Betäubung sammeln und wissen, wann die eigene Pfote besser vom nächsten Getränk lässt.
