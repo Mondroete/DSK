@@ -1,163 +1,230 @@
-Wilde Jagd
+# 🎲 Wilde Jagd
 
-Ein schnelles Würfelspiel für Tavernen, Feste und gemütliche Abende. Zwei Würfel, fünf Versuche und nur ein Ziel: Fange einen Pasch, bevor die Wilde Jagd entkommt.
+> Ein schnelles Würfelspiel für Tavernen, Feste und gemütliche Abende. Zwei Würfel, fünf Versuche und nur ein Ziel: Fange einen Pasch, bevor die Wilde Jagd entkommt.
 
-Was wird benötigt?
+## Was wird benötigt?
 
-Teilnehmer: Ein oder mehrere Erwachte können spielen.
+- **Teilnehmer:** Ein oder mehrere Erwachte können spielen.
+- **Würfel:** Pro Spieler werden **2W6** benötigt.
+- **Einsatz:** Vor Beginn wird ein Einsatz festgelegt.
+- **Ziel:** Innerhalb von höchstens **5 Zügen** einen Pasch würfeln.
 
-Würfel: Pro Spieler werden 2W6 benötigt.
+---
 
-Einsatz: Vor Beginn wird ein Einsatz festgelegt.
+## 1. Die Jagd beginnt
 
-Ziel: Innerhalb von höchstens 5 Zügen einen Pasch würfeln.
+Würfle mit **2W6**.
 
-1. Die Jagd beginnt
+- Zeigen beide Würfel dieselbe Augenzahl, hast du einen **Pasch** gewürfelt.
+- Ein Pasch beendet deine Jagd sofort erfolgreich.
+- Zeigen die Würfel unterschiedliche Zahlen, darfst du entscheiden, wie du weitermachst.
 
-Würfle mit 2W6.
+---
 
-Zeigen beide Würfel dieselbe Augenzahl, hast du einen Pasch gewürfelt.
-
-Ein Pasch beendet deine Jagd sofort erfolgreich.
-
-Zeigen die Würfel unterschiedliche Zahlen, darfst du entscheiden, wie du weitermachst.
-
-2. Einen Würfel festsetzen
+## 2. Einen Würfel festsetzen
 
 Nach einem erfolglosen Wurf darfst du dich auf eine bestimmte Beute festlegen.
 
-Wähle einen der beiden Würfel und setze ihn fest.
+1. Wähle einen der beiden Würfel.
+2. **Setze diesen Würfel fest.**
+3. Der festgesetzte Würfel bleibt mit seiner aktuellen Augenzahl liegen.
+4. In den folgenden Zügen würfelst du nur noch mit dem anderen **W6**.
+5. Zeigt der neu gewürfelte Würfel dieselbe Augenzahl wie der festgesetzte Würfel, hast du deinen Pasch erreicht.
 
-Der festgesetzte Würfel bleibt mit seiner aktuellen Augenzahl liegen.
+🏆 **Die Jagd ist gewonnen.**
 
-In den folgenden Zügen würfelst du nur noch mit dem anderen W6.
+---
 
-Zeigt der neu gewürfelte Würfel dieselbe Augenzahl wie der festgesetzte Würfel, hast du deinen Pasch erreicht und gewinnst.
+## 3. Die fünf Züge
 
-3. Die fünf Züge
+Jede Wilde Jagd dauert höchstens **5 Züge**.
 
-Jede Wilde Jagd dauert höchstens 5 Züge.
+- Der erste Wurf mit **2W6** zählt bereits als **Zug 1**.
+- Jeder weitere Wurf zählt als ein weiterer Zug.
+- Ein erfolgreicher Pasch beendet die Jagd sofort.
+- Erreichst du bis zum Ende des fünften Zuges keinen Pasch, entkommt die Wilde Jagd.
 
-Der erste Wurf mit 2W6 zählt bereits als Zug 1.
+### Zugübersicht
 
-Jeder weitere Wurf zählt als ein weiterer Zug.
+| Zug | Was passiert? |
+|---:|---|
+| **1** | 2W6 würfeln und eventuell einen Würfel festsetzen |
+| **2** | Freien Würfel werfen |
+| **3** | Freien Würfel werfen |
+| **4** | Freien Würfel werfen |
+| **5** | Letzte Chance auf den Pasch |
 
-Erreichst du bis zum Ende des fünften Zuges keinen Pasch, entkommt die Wilde Jagd und du verlierst.
+---
 
-Beispiel
+## 📖 Beispiel
 
-Zug 1: Minka würfelt eine 3 und eine 5.
+### Zug 1
 
-Minka entscheidet sich, die 3 festzusetzen.
+Minka würfelt:
 
-Zug 2: Der freie W6 zeigt eine 6. Die Jagd geht weiter.
+**3 und 5**
 
-Zug 3: Der freie W6 zeigt eine 3.
+Minka entscheidet sich, die **3 festzusetzen**.
 
-Nun liegen zwei Dreien auf dem Tisch. Minka hat einen Pasch und gewinnt die Wilde Jagd.
+### Zug 2
 
-4. Drücken
+Der freie W6 zeigt:
 
-Du glaubst, dass du dich auf die falsche Beute festgelegt hast? Dann kannst du dein Glück noch einmal richtig herausfordern.
+**6**
 
-Voraussetzung: Du hast bereits einen Würfel festgesetzt.
+Kein Pasch. Die Jagd geht weiter.
 
-Ansage: Zu Beginn deines Zuges darfst du „Drücken!“ ankündigen.
+### Zug 3
 
-Einsatz: Dein bisheriger Einsatz wird verdoppelt.
+Der freie W6 zeigt:
 
-Freigeben: Der festgesetzte Würfel wird wieder freigegeben.
+**3**
 
-Du würfelst in diesem Zug wieder mit beiden W6.
+Nun liegen zwei Dreien auf dem Tisch.
 
-Wichtig: Drücken startet die Jagd nicht neu. Der Zug zählt ganz normal zu deinen höchstens fünf Zügen.
+🏆 **Minka hat den Pasch erreicht und gewinnt die Wilde Jagd.**
 
-5. Nach dem Drücken
+---
 
-Zeigen die neu gewürfelten 2W6 einen Pasch, gewinnst du sofort.
+# 🎲 Drücken
 
-Zeigen die Würfel unterschiedliche Ergebnisse, darfst du wieder einen der Würfel festsetzen.
+> Du glaubst, dass du dich auf die falsche Beute festgelegt hast? Dann kannst du dein Glück noch einmal richtig herausfordern.
 
-Du kannst anschließend mit dem neuen Ziel weiterjagen.
+## Voraussetzung
 
-6. Gewinnen & Verlieren
+Du hast bereits einen Würfel festgesetzt.
 
-Pasch innerhalb von 5 Zügen: Die Jagd ist gewonnen.
+## So funktioniert Drücken
 
-Kein Pasch nach Zug 5: Die Wilde Jagd entkommt und du verlierst deinen Einsatz.
+1. Zu Beginn deines Zuges kündigst du **„Drücken!“** an.
+2. Dein bisheriger Einsatz wird **verdoppelt**.
+3. Der festgesetzte Würfel wird wieder freigegeben.
+4. Du würfelst in diesem Zug wieder mit **2W6**.
 
-Gewinn: Bei einer gewonnenen Jagd erhältst du den zuvor vereinbarten Gewinn.
+> **Wichtig:** Drücken startet die Jagd nicht neu. Der Zug zählt ganz normal zu deinen höchstens fünf Zügen.
 
-Gedrückt: Wurde während der Jagd gedrückt, gilt der entsprechend erhöhte Einsatz.
+---
 
-Mehrere Teilnehmer
+## Nach dem Drücken
+
+### Pasch
+
+Zeigen die neu gewürfelten **2W6** dieselbe Augenzahl:
+
+🏆 **Du gewinnst sofort.**
+
+### Kein Pasch
+
+Zeigen die Würfel unterschiedliche Ergebnisse:
+
+- Du darfst erneut einen Würfel festsetzen.
+- Anschließend jagst du auf die neue Zahl weiter.
+- Die verbleibenden Züge ändern sich nicht.
+
+---
+
+# 🏆 Gewinnen & Verlieren
+
+### Gewonnen
+
+Du erreichst innerhalb von höchstens **5 Zügen einen Pasch**.
+
+### Verloren
+
+Nach dem fünften Zug liegt noch immer kein Pasch.
+
+> **Die Wilde Jagd ist entkommen.**
+
+Du verlierst deinen Einsatz.
+
+### Gedrückt
+
+Wurde während der Jagd gedrückt, gilt der entsprechend erhöhte Einsatz.
+
+---
+
+# 👥 Mehrere Teilnehmer
 
 Wilde Jagd kann auch als kleiner Tavernenwettbewerb gespielt werden.
 
-Jeder Teilnehmer führt eine eigene Jagd mit höchstens 5 Zügen durch.
+1. Jeder Teilnehmer führt eine eigene Jagd durch.
+2. Jeder erhält höchstens **5 Züge**.
+3. Wer keinen Pasch erreicht, scheidet aus der Wertung aus.
+4. Unter allen erfolgreichen Spielern gewinnt die Pfote, die ihren Pasch in den **wenigsten Zügen** erreicht hat.
 
-Wer keinen Pasch schafft, scheidet aus der Wertung aus.
+### Beispiel
 
-Unter allen erfolgreichen Spielern gewinnt die Pfote, die ihren Pasch in den wenigsten Zügen erreicht hat.
+| Spieler | Pasch erreicht |
+|---|---:|
+| Minka | Zug 3 |
+| Fussel | Zug 5 |
+| Kratzer | Kein Pasch |
+| Samtpfote | Zug 2 |
 
-Gleichstand
+🏆 **Samtpfote gewinnt mit einem Pasch in Zug 2.**
 
-Haben mehrere Teilnehmer ihren Pasch im selben Zug erreicht, kommt es zu einer neuen Stechjagd.
+---
 
-Nur die am Gleichstand beteiligten Spieler treten erneut an.
+# ⚔️ Gleichstand
 
-Jeder erhält wieder höchstens 5 Züge.
+Haben mehrere Teilnehmer ihren Pasch im selben Zug erreicht, kommt es zu einer **Stechjagd**.
 
-Wer seinen Pasch diesmal zuerst erreicht, gewinnt.
+- Nur die am Gleichstand beteiligten Spieler treten erneut an.
+- Jeder erhält wieder höchstens **5 Züge**.
+- Wer seinen Pasch diesmal früher erreicht, gewinnt.
 
-Besondere Pasche
+Besteht erneut Gleichstand, beginnt eine weitere Stechjagd.
 
-Wenn ihr möchtet, können bestimmte Pasche eigene Namen erhalten. Dies verändert die Regeln nicht, sorgt aber für etwas mehr Tavernenflair.
+---
 
-Doppel-1: Die schlafende Jagd
+# 🐾 Besondere Pasche
 
-Doppel-2: Die Mäusefährte
+Bestimmte Pasche können eigene Namen erhalten.
 
-Doppel-3: Die drei Krallen
+Dies verändert die Regeln nicht, sorgt aber für etwas mehr Tavernenflair.
 
-Doppel-4: Die schnelle Pfote
+| Pasch | Name |
+|---|---|
+| 🎲 **Doppel-1** | Die schlafende Jagd |
+| 🎲 **Doppel-2** | Die Mäusefährte |
+| 🎲 **Doppel-3** | Die drei Krallen |
+| 🎲 **Doppel-4** | Die schnelle Pfote |
+| 🎲 **Doppel-5** | Der große Fang |
+| 🎲 **Doppel-6** | Die Wilde Jagd |
 
-Doppel-5: Der große Fang
+---
 
-Doppel-6: Die Wilde Jagd
+# 🎁 Belohnungsideen
 
-Belohnungsideen
+| Ergebnis | Mögliche Belohnung |
+|---|---|
+| **Pasch im 5. Zug** | Normaler Gewinn oder vereinbarter Einsatz |
+| **Pasch im 3.–4. Zug** | Gewinn + kleiner Snack oder Freigetränk |
+| **Pasch im 2. Zug** | Gewinn + kleines Erinnerungsstück |
+| **Pasch im 1. Zug** | Besonderer Glückstreffer + kleiner Sonderpreis |
+| **Doppel-6 im 1. Zug** | Besonderer Jackpot oder Ehrentitel |
 
-Pasch im 5. Zug: Normaler Gewinn oder vereinbarter Einsatz.
+### Mögliche Ehrentitel
 
-Pasch im 3.–4. Zug: Gewinn und ein kleiner Snack oder Freigetränk.
+- 🐾 **Jägerpfote**
+- 🎲 **Liebling der Jagd**
+- 🏹 **Fänger der Wilden Jagd**
+- 👑 **Herr der Doppel-Sechs**
 
-Pasch im 2. Zug: Gewinn und ein kleines Erinnerungsstück.
+---
 
-Pasch im 1. Zug: Besonderer Glückstreffer und kleiner Sonderpreis.
-
-Doppel-6 im 1. Zug: Die Taverne kann dafür einen besonderen Jackpot oder einen Ehrentitel ausloben.
-
-Kurzfassung
+# ⚡ Kurzfassung
 
 1. Einsatz festlegen.
-
-2. Mit 2W6 würfeln.
-
-3. Pasch = Jagd gewonnen.
-
+2. **2W6** würfeln.
+3. Pasch = **Jagd gewonnen**.
 4. Kein Pasch = einen Würfel festsetzen.
-
 5. Danach nur den anderen W6 weiterwürfeln.
-
 6. Gleiche Augenzahl wie der festgesetzte Würfel = Pasch.
-
-7. Maximal 5 Züge.
-
-8. Drücken = Einsatz verdoppeln, Würfel freigeben und wieder 2W6 würfeln.
-
-9. Drücken gibt keine zusätzlichen Züge.
-
+7. Maximal **5 Züge**.
+8. **Drücken:** Einsatz verdoppeln, Würfel freigeben und wieder 2W6 würfeln.
+9. Drücken gibt **keine zusätzlichen Züge**.
 10. Kein Pasch nach Zug 5 = verloren.
+11. Bei mehreren Spielern gewinnt der Pasch mit den **wenigsten benötigten Zügen**.
 
-Merksatz: Zwei Würfel, fünf Züge und eine Beute. Setze einen Würfel fest und fange seinen Zwilling, bevor die Wilde Jagd entkommt.
+> **Merksatz:** Zwei Würfel, fünf Züge und eine Beute. Setze einen Würfel fest und fange seinen Zwilling, bevor die Wilde Jagd entkommt.
